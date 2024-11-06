@@ -26,10 +26,22 @@ Your task is to build a predictive model to determine whether a customer will ch
 
 ## Steps to Follow
 1. Accept the assignment to obtain your forked repository and set up your environment using **GitHub Codespaces**.
-2. **`data_exploration.py`**: implement logic to load and analyze the dataset `bank_churn.csv`. Check for missing values, generate summary statistics.
-3. **`feature_engineering.py`**: Implement steps to handle missing values, encode categorical features, and create useful columns.
-4. **`model_training.py`**: define features, split the data, and train your machine learning model.
+
+2. ### task 1: Data Exploration(8 marks)
+
+**`data_exploration.py`**: implement logic to load and analyze the dataset `bank_churn.csv`. Check for missing values, generate summary statistics.
+
+3. ### task 2: Feature engineering(12 marks)
+
+**`feature_engineering.py`**: Implement steps to handle missing values, encode categorical features, and create useful columns.
+
+4. ### task 3: Model Training(20 marks)
+
+**`model_training.py`**: define features, split the data, and train your machine learning model.
+
+
 5. Run the codes inside **GitHub Codespaces terminal** and executing the command `pytest` to verify your implementation..
+
 6. Commit the changes using the **COMMIT** button (green) available in the codespace.
 
 ---
